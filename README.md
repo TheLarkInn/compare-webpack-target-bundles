@@ -11,9 +11,10 @@ Feel free to use this as you will. Can also serve a purpose for bug reporting.
 Clone the repo locally, `cd` into repo and run the following: 
 
 `$ npm install`
+
 `$ npm start`
 
-** Resulting bundles can be seen in the `dist` folder **
+**Resulting bundles can be seen in the `dist` folder**
 
 ## Thats IT!
  
