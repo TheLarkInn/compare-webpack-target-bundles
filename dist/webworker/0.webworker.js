@@ -1,4 +1,4 @@
-webpackChunk([0],[
+webpackChunk([0,2],[
 /* 0 */,
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {
