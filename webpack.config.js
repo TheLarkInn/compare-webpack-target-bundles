@@ -8,8 +8,7 @@ let baseConfig = {
   output: {
     filename: '[name].js',
     path: path.resolve(__dirname, './dist')
-  },
-  plugins: []
+  }
 };
 
 let targets = ['web', 'webworker', 'node', 'async-node', 'node-webkit', 'electron-main'].map((target) => {

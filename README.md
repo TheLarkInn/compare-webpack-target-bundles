@@ -13,4 +13,7 @@ Clone the repo locally, `cd` into repo and run the following:
 `$ npm install`
 `$ npm start`
 
+** Resulting bundles can be seen in the `dist` folder **
+
 ## Thats IT!
+ 

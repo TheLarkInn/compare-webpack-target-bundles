@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "rimraf dist/ && webpack --colors"
+    "start": "rimraf dist/ && webpack --colors --optimize-minimize"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Sean Larkin",
+  "license": "MIT",
   "devDependencies": {
     "rimraf": "^2.5.4",
     "webpack": "^2.1.0-beta.21"
