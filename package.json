@@ -1,0 +1,15 @@
+{
+  "name": "compare-webpack-target-bundles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rimraf dist/ && webpack --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rimraf": "^2.5.4",
+    "webpack": "^2.1.0-beta.21"
+  }
+}
