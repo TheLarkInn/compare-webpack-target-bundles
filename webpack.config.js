@@ -16,7 +16,11 @@ var baseConfig = {
       name: 'inline',
       filename: 'inline.js',
       minChunks: Infinity
-    })
+    }),
+    new webpack.optimize.AggressiveSplittingPlugin({
+        minSize: 5000,
+        maxSize: 10000
+    }),
   ]
 };
 

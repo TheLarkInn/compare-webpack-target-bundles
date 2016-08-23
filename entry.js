@@ -1,3 +1,5 @@
+require('react');
+require(['react-dom']);
 import { foo, something } from './dep_one.js';
 
 something(); 
