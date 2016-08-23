@@ -16,5 +16,17 @@ Clone the repo locally, `cd` into repo and run the following:
 
 **Resulting bundles can be seen in the `dist` folder**
 
-## Thats IT!
- 
+## Dist Table of Contents
+
+* [web](https://github.com/TheLarkInn/compare-webpack-target-bundles/tree/master/dist/web)	<== DEFAULT
+
+* [async-node](https://github.com/TheLarkInn/compare-webpack-target-bundles/tree/master/dist/async-node)
+
+* [electron-main](https://github.com/TheLarkInn/compare-webpack-target-bundles/tree/master/dist/electron-main)	
+
+* [node-webkit](https://github.com/TheLarkInn/compare-webpack-target-bundles/tree/master/dist/node-webkit)
+
+* [node](https://github.com/TheLarkInn/compare-webpack-target-bundles/tree/master/dist/node)
+
+* [webworker](https://github.com/TheLarkInn/compare-webpack-target-bundles/tree/master/dist/webworker)
+
